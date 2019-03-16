@@ -33,3 +33,4 @@ s = Solution()
 string1 = "PAYPALISHIRING"
 results = s.convert(string1, 4)
 print(results)
+print("test")

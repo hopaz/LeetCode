@@ -1,4 +1,4 @@
-class Solution:
+dddd class Solution:
    def minAddToMakeValid(self, S):
         """
         :type S: str
